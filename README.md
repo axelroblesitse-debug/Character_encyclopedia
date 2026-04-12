@@ -1,1 +1,0 @@
-# Character_encyclopedia
