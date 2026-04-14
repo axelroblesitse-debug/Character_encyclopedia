@@ -17,7 +17,6 @@ public class Menu {
         this.encyclopedia = encyclopedia;
         this.scanner = new Scanner(System.in);
     }
-
     private void typewriter(String text, int speed) {
         for (char c : text.toCharArray()) {
             System.out.print(c);
