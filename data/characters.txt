@@ -1,0 +1,2 @@
+Naruto,Usumaki,80,Viento
+Sasuke,Uchiha,70,Fuego
